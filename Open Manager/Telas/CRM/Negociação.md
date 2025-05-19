@@ -1,6 +1,6 @@
 Aqui é gerenciado os negócios que você faz parte.
 
-![[Pasted image 20250519000810.png]]
+![[Pasted_image_20250519000810.png]]
 
 ## Criação/Edição
 

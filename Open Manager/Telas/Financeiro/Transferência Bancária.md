@@ -1,6 +1,6 @@
 Gerenciamento de Transferências Bancárias
 
-![[Pasted image 20250518152137.png]]
+![[Pasted_image_20250518152137.png]]
 
 ### Tabela:
 - ID
@@ -13,7 +13,7 @@ Gerenciamento de Transferências Bancárias
 ## Criando/Editando
 
 Para criar ou editar uma transferência Bancária, basta escolher uma das opções no menu superior. Você será redirecionado para a seguinte tela:
-![[Pasted image 20250518152415.png]]
+![[Pasted_image_20250518152415.png]]
 
 Aqui é necessário preencher as seguintes informações:
 - Conta Bancária Origem

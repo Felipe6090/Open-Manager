@@ -1,6 +1,6 @@
 Aqui você pode gerenciar a sua produção
 
-![[Pasted image 20250518005646.png]]
+![[Pasted_image_20250518005646.png]]
 
 ## Tabela:
 - ID

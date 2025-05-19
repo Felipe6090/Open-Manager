@@ -1,9 +1,9 @@
 Gerencie os benefícios e seus descontos aqui
-![[Pasted image 20250518115518.png]]
+![[Pasted_image_20250518115518.png]]
 
 ## Criando novos benefícios
 Para criar um novo Benefício, clique em "Novo" no canto superior esquerdo. Você será redirecionado para a seguinte tela:
-![[Pasted image 20250518115714.png]]
+![[Pasted_image_20250518115714.png]]
 
 Nela, você precisa preencher as seguintes informações
 - Descrição

@@ -4,7 +4,7 @@ Aqui você pode visualizar as estatísticas do CRM
 ## Dados Disponíveis
 ###### Resumo CRM
  
-![[Pasted image 20250519001235.png]]
+![[Pasted_image_20250519001235.png]]
 
 ##### Medidor de Atividades
 
@@ -16,7 +16,7 @@ Aqui você pode visualizar as estatísticas do CRM
 
 ##### Metas
 
-![[Pasted image 20250519001400.png]]
+![[Pasted_image_20250519001400.png]]
 
 ##### Canais de Venda
 
@@ -26,20 +26,20 @@ Aqui você pode visualizar as estatísticas do CRM
 
 ##### Avaliação por Negociação
 
-![[Pasted image 20250519001510.png]]
+![[Pasted_image_20250519001510.png]]
 
 
 ##### Resumo de E-mails
 
-![[Pasted image 20250519001600.png]]
+![[Pasted_image_20250519001600.png]]
 
 ##### Inscrição de E-mail
 
-![[Pasted image 20250519001625.png]]
+![[Pasted_image_20250519001625.png]]
 
 ##### Taxa por Combinação de E-mail
 
-![[Pasted image 20250519001655.png]]
+![[Pasted_image_20250519001655.png]]
 
 
 ## Referências:

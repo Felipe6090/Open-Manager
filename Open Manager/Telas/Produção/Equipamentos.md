@@ -1,6 +1,6 @@
 Aqui fica a lista de equipamentos da sua empresa.
 
-![[Pasted image 20250517235838.png]]
+![[Pasted_image_20250517235838.png]]
 
 ## Tabela:
 - ID
@@ -18,7 +18,7 @@ Aqui fica a lista de equipamentos da sua empresa.
 ## Cadastrando Novos Equipamentos:
 Para registrar um novo equipamento basta clicar em "Novo Equipamento" e preencher os dados abaixo:
 
-![[Pasted image 20250518000624.png]]
+![[Pasted_image_20250518000624.png]]
 
 - Descrição
 - Modelo

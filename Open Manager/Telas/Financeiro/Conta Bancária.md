@@ -1,6 +1,6 @@
 Gerenciamento de contas bancárias, além de extratos e balanços bancários.
 
-![[Pasted image 20250518132446.png]]
+![[Pasted_image_20250518132446.png]]
 #### Tabela:
 - ID
 - Nome
@@ -16,7 +16,7 @@ Gerenciamento de contas bancárias, além de extratos e balanços bancários.
 ## Criando uma conta bancária
 Clique em "Nova Conta Bancária" no canto superior esquerdo. Você irá para a tela abaixo:
 
-![[Pasted image 20250518133805.png]]
+![[Pasted_image_20250518133805.png]]
 
 Aqui você deve preencher os seguintes dados:
 - Banco
@@ -32,20 +32,20 @@ Aqui você deve preencher os seguintes dados:
 ## Configurando Boletos
 Após preencher as informações da conta, a aba de boletos ficará disponível:
 
-![[Pasted image 20250518134323.png]]
+![[Pasted_image_20250518134323.png]]
 
 Lá você pode preencher as seguintes informações:
 
-![[Pasted image 20250518134624.png]]
+![[Pasted_image_20250518134624.png]]
 
-![[Pasted image 20250518134649.png]]
+![[Pasted_image_20250518134649.png]]
 
-![[Pasted image 20250518134716.png]]
+![[Pasted_image_20250518134716.png]]
 
 ## Extrato Bancário
 Clicando em "Extrato Bancário", no menu superior, você pode visualizar o extrato bancário da conta selecionada:
 
-![[Pasted image 20250518135244.png]]
+![[Pasted_image_20250518135244.png]]
 
 #### Tabela:
 - ID
@@ -66,7 +66,7 @@ Clicando em "Extrato Bancário", no menu superior, você pode visualizar o extra
 
 ## Refazer balanço bancário
 A opção "Refazer Balanço Bancário" abrirá o seguinte modal de confirmação:
-![[Pasted image 20250518145633.png]]
+![[Pasted_image_20250518145633.png]]
 
 Se confirmado, o balanço bancário é refeito
 
@@ -74,12 +74,12 @@ Se confirmado, o balanço bancário é refeito
 ## Lista de Boletos
 Na linha de uma conta bancária, na coluna de opções...
 
-![[Pasted image 20250518141317.png]]
+![[Pasted_image_20250518141317.png]]
 
 
 É possível ir para a página de "Gerenciamento de boletos":
 
-![[Pasted image 20250518140630.png]]
+![[Pasted_image_20250518140630.png]]
 
 Aqui você tem as seguintes opções e possibilidades:
 
@@ -102,7 +102,7 @@ Aqui você tem as seguintes opções e possibilidades:
 ### Funcionalidades:
 Veja abaixo quais são as possiblidades no gerenciamento de boletos:
 
-![[Pasted image 20250518142340.png]]
+![[Pasted_image_20250518142340.png]]
 
 #### Gerar remessa:
 Gera um arquivo ```.rem``` que contêm informações sobre pagamentos e cobranças - os boletos selecionados - para serem processados pelo banco.
@@ -113,20 +113,20 @@ Fará o download dos boletos selecionados
 #### Enviar Boleto por e-mail:
 Ao selecionar essa opção, irá abrir o modal de envio do e-mail
 
-![[Pasted image 20250518142811.png]]
+![[Pasted_image_20250518142811.png]]
 
 O e-mail virá no seguinte formato:
-![[Pasted image 20250518143235.png]]
+![[Pasted_image_20250518143235.png]]
 
 E o link te enviara para o seguinte [modelo](https://openmanager.com.br/app/cadLinkBoletoCliente.php?sc%25%40%3Fa%3F)
 
 #### Quitar boleto
 
 1. Ao usar a função de quitar um boleto, um modal de confirmação irá aparecer
-![[Pasted image 20250518143852.png]]
+![[Pasted_image_20250518143852.png]]
 
 2. Confirmando a quitação, é necessário informar a data de quitação e se deseja realizar quitação do "Contas à receber", com isso, o boleto será quitado.
-![[Pasted image 20250518144117.png]]
+![[Pasted_image_20250518144117.png]]
 
 
 #### Gerar Borderô

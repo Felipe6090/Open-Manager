@@ -1,12 +1,12 @@
 Controle suas receitas e despesas aqui.
 
-![[Pasted image 20250518123830.png]]
+![[Pasted_image_20250518123830.png]]
 
 
 ## Gerenciando Receitas e Despesas:
 Ao criar ou editar uma categoria financeira, iremos para a seguinte página:
 
-![[Pasted image 20250518124159.png]]
+![[Pasted_image_20250518124159.png]]
 
 Aqui precisamos preencher as seguintes informações:
 - Nome da Categoria Financeira
