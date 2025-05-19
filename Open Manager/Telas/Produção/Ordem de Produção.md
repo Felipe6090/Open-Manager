@@ -32,4 +32,4 @@ Veja como gerenciar a OP [aqui](https://scribehow.com/shared/Gerenciando_a_ordem
 A função de duplicar irá criar uma cópia da OP com o mesmo mapa. Ela irá começar Em Aberto e será necessário preencher os dados adicionais novamente, mesmo processo de criação.
 
 ### Impressão
-(Exemplo)[/assets/producao.pdf]
+[Exemplo](/assets/producao.pdf)

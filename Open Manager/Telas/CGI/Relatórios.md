@@ -3,49 +3,49 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 ![](/assets/Pasted_image_20250517212914.png)
 
 ## Registro de Entradas P1
-(exemplo)[/assets/livro_entrada_P1.pdf]
+[exemplo](/assets/livro_entrada_P1.pdf)
 ### Campos:
 - Mês
 - Ano
 
 
 ## Registro de Entradas P1/A
-(exemplo)[/assets/livro_entrada_P1-A.pdf]
+[exemplo](/assets/livro_entrada_P1-A.pdf)
 ### Campos:
 - Mês
 - Ano
 
 
 ## Registro de Saídas P2
-(exemplo)[/assets/livro_saida_P2.pdf]
+[exemplo](/assets/livro_saida_P2.pdf)
 ### Campos:
 - Mês
 - Ano
 
 
 ## Registro de Saídas P2/A
-(exemplo)[/assets/livro_saida_P2-A.pdf]
+[exemplo](/assets/livro_saida_P2-A.pdf)
 ### Campos:
 - Mês
 - Ano
 
 
 ### Vendas por Período/Tipo Pessoa
-(exemplo)[/assets/vendas-periodo.pdf]
+[exemplo](/assets/vendas-periodo.pdf)
 ### Campos:
 - Data de Início (dia/mês/ano)
 - Data final (dia/mês/ano)
 
 
 ### Notas Fiscais por tipo de pagamento
-(exemplo)[/assets/relatorioDeNotasFiscaisPorEspecieDePagamento.pdf]
+[exemplo](/assets/relatorioDeNotasFiscaisPorEspecieDePagamento.pdf)
 ### Campos:
 - Data de Início (dia/mês/ano)
 - Data final (dia/mês/ano)
 
 
 ### Apuração de Impostos
-(exemplo)[/assets/Relatorio_Apuração de Impostos - MATERIAL DE CONSTRUÇÃO BUILDER BEST_1747529425392.pdf]
+[exemplo](/assets/Relatorio_Apuração de Impostos - MATERIAL DE CONSTRUÇÃO BUILDER BEST_1747529425392.pdf)
 ### Campos:
 -  Data de Início (dia/mês/ano)
 - Data final (dia/mês/ano)
@@ -53,7 +53,7 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 
 
 ### Conferencia de Documentos Fiscais - Entrada e Saída
-(exemplo)[/assets/RelatorioConferenciaDocumentosFiscaisEntradaSaida.pdf]
+[exemplo](/assets/RelatorioConferenciaDocumentosFiscaisEntradaSaida.pdf)
 ### Campos:
 -  Data de Início (dia/mês/ano)
 - Data final (dia/mês/ano)
@@ -64,7 +64,7 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 
 
 ### Registro de Controle da Produção e do Estoque (RCPE)
-(exemplo)[/assets/relatorioRCPE.pdf]
+[exemplo](/assets/relatorioRCPE.pdf)
 ### Campos:
 - Preço Utilizado (Preço de ...)
 	- Custo
@@ -78,27 +78,27 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 
 
 ### Entrada de CTe
-(exemplo)[/assets/Relatorio_Entrada de CTe - MATERIAL DE CONSTRUÇÃO BUILDER BEST_1747530050135.pdf]
+[exemplo](/assets/Relatorio_Entrada de CTe - MATERIAL DE CONSTRUÇÃO BUILDER BEST_1747530050135.pdf)
 ### Campos:
 - Data de Início (dia/mês/ano)
 - Data final (dia/mês/ano)
 
 
 ### Registro de Apuração do ICMS
-(exemplo)[/assets/registro_apuracao.pdf]
+[exemplo](/assets/registro_apuracao.pdf)
 ### Campos:
 - Mês
 - Ano
 
 ### Registro de Apuração do IPI
-(exemplo)[/assets/registro_apuracao_ipi.pdf]
+[exemplo](/assets/registro_apuracao_ipi.pdf)
 ### Campos:
 - Mês
 - Ano
 
 
 ### Relatório de Difal
-(exemplo)[/assets/registro_apuracao_ipi.pdf]
+[exemplo](/assets/registro_apuracao_ipi.pdf)
 ### Campos:
 - Data de Início (dia/mês/ano)
 - Data final (dia/mês/ano)
@@ -106,7 +106,7 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 
 ### Relatório de Estorno e Devolução por CST ICMS
 
-(exemplo)[/assets/rel-estorno_devolucao_cst.pdf]
+[exemplo](/assets/rel-estorno_devolucao_cst.pdf)
 
 ### Campos:
 - Data de Início

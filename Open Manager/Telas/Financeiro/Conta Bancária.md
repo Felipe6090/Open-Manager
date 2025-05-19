@@ -132,4 +132,4 @@ E o link te enviara para o seguinte [modelo](https://openmanager.com.br/app/cadL
 #### Gerar Borderô
 O borderô **é uma ferramenta de gestão financeira para controlar gastos de uma empresa ou evento**. Nele, é feito um registro detalhado de notas fiscais, cheques, faturas e demais documentos para organizar cada transação financeira ocorrida.
 
-(Exemplo)[/assets/BorderoDeCobranca_18-05-2025 14_49_47.pdf]
+[Exemplo](/assets/BorderoDeCobranca_18-05-2025 14_49_47.pdf)

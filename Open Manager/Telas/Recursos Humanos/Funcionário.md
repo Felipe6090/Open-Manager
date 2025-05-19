@@ -12,4 +12,4 @@ Para alterar a função do funcionário, basta ir no menu de opções->Alterar f
 ![](/assets/Pasted_image_20250518112957.png)
 
 ### Ficha Cadastral
-(exemplo)[/assets/ficha_funcionario.pdf]
+[exemplo](/assets/ficha_funcionario.pdf)

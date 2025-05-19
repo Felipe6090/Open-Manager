@@ -18,9 +18,9 @@ Aqui é a página de Locações da sua empresa. Você pode visualizar, criar e m
 ### Criando uma nova Locação:
 Veja o tutorial de como criar uma locação [aqui](https://scribehow.com/viewer/How_To_Create_A_New_Rental_In_Open_Manager__o0wU7p8XRG6PQ2rrTBN4Zg)
 ### Gerar impresso
-Gera um contrato de locação, veja um exemplo  (aqui)[/assets/Contrato_De_Locacao_17-05-2025 22_53_36.pdf]
+Gera um contrato de locação, veja um exemplo  [aqui](/assets/Contrato_De_Locacao_17-05-2025 22_53_36.pdf)
 ### Gerar Nota de Locação
-Gera um contrato de locação, veja um exemplo (aqui)[/assets/relatorio.pdf]
+Gera um contrato de locação, veja um exemplo [aqui](/assets/relatorio.pdf)
 ### Iniciando E Faturando uma locação
 Para iniciar a locação basta clicar em "Iniciar" na coluna de opções.
 
