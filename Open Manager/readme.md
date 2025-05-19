@@ -2,6 +2,8 @@
 
 Essa é uma documentação demonstrando as funcionalidades do ERP. Veja tela por tela e tire suas duvidas.
 
+![](/assets/Mapeamento%20das%20funções.png)
+
 ## Funcionalidades comuns em todo o ERP
 
 Veja funcionalidades comuns no ERP e já tenha algum contexto de suas funcionalidades
