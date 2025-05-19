@@ -18,7 +18,7 @@ Várias telas do Open Manager têm como padrão de visualização o uso de tabel
 
 #### GED
 
-GED (Gestão Eletrônica de Documentos) é um sistema que digitaliza, organiza e gerencia documentos, tornando-os acessíveis através de um sistema eletrônico. Alguns dados no Open Manager podem receber esse tipo de arquivo. Exemplos: [[conta à pagar]]
+GED (Gestão Eletrônica de Documentos) é um sistema que digitaliza, organiza e gerencia documentos, tornando-os acessíveis através de um sistema eletrônico. Alguns dados no Open Manager podem receber esse tipo de arquivo. Exemplos: [conta à pagar](/Open%20Manager/Telas/Financeiro/Contas-a-Receber.md)
 
 #### Relacionamento
 
