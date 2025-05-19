@@ -1,8 +1,8 @@
 Com o CRM do Sistema Open Manager você pode organizar o seu funil indicando todas as etapas de forma personalizável e flexível.
 
-![[Pasted_image_20250518220321.png]]
+![](/assets/Pasted_image_20250518220321.png)
 
-![[Pasted_image_20250518220351.png]]
+![](/assets/Pasted_image_20250518220351.png)
 
 
 ## Gerenciando Funis

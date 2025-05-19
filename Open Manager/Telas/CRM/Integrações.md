@@ -1,7 +1,7 @@
 
 Gerenciamento de Integrações do CRM
 
-![[Pasted_image_20250519001948.png]]
+![](/assets/Pasted_image_20250519001948.png)
 
 ### Tabela:
 - ID
@@ -52,7 +52,7 @@ Essa integração permite capturar dados de formulários externos e cadastrá-lo
 
 Ao criar ou editar uma integração, um modal no seguinte modelo será aberto:
 
-![[Pasted_image_20250519002249.png]]
+![](/assets/Pasted_image_20250519002249.png)
 
 Nele é necessário preencher os seguintes dados:
 - Funil

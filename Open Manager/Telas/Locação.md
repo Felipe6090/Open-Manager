@@ -1,7 +1,7 @@
 # Página Inicial
 Aqui é a página de Locações da sua empresa. Você pode visualizar, criar e muito mais aqui!
 
-![[Pasted_image_20250517191819.png]]
+![](/assets/Pasted_image_20250517191819.png)
 ## Tabela:
 - ID
 - Número
@@ -25,6 +25,6 @@ Gera um contrato de locação, veja um exemplo [[relatorio.pdf|aqui]]
 Para iniciar a locação basta clicar em "Iniciar" na coluna de opções.
 
 A partir disso o tempo e o valor de locação serão contabilizados. Para visualizar essas informações basta clicar em "Gerenciar" na coluna de opções.
-  ![[Pasted_image_20250517201409.png]]
+  ![](/assets/Pasted_image_20250517201409.png)
 #### Pagamento e Faturamento
 Veja como administrar os pagamentos [aqui](https://scribehow.com/shared/Processando_Pagamentos_no_Openmanager__O7quXoiyTxOro-ZMQaYk0w)

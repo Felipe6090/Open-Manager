@@ -1,6 +1,6 @@
 Gerenciamento de cartões de crédito e débito
 
-![[Pasted_image_20250518202525.png]]
+![](/assets/Pasted_image_20250518202525.png)
 
 ### Tabela:
 - ID

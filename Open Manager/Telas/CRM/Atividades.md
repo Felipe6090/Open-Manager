@@ -1,11 +1,11 @@
 Aqui você por gerenciar as atividades da sua equipe
 
-![[Pasted_image_20250518232838.png]]
+![](/assets/Pasted_image_20250518232838.png)
 
 
 ## Legenda
 
-![[Pasted_image_20250518233034.png]]
+![](/assets/Pasted_image_20250518233034.png)
 
 ## Visualização
 Há duas possibilidades de visualização:

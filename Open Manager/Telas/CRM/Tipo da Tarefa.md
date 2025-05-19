@@ -1,6 +1,6 @@
 Aqui você pode  gerenciar as tarefas da sua empresa e funcionários
 
-![[Pasted_image_20250518224943.png]]
+![](/assets/Pasted_image_20250518224943.png)
 
 ### Tabela:
 - Descrição
@@ -10,7 +10,7 @@ Aqui você pode  gerenciar as tarefas da sua empresa e funcionários
 
 Ao criar ou editar uma tarefa, o seguinte modal será aberto:
 
-![[Pasted_image_20250518225111.png]]
+![](/assets/Pasted_image_20250518225111.png)
 
 Nele é necessário preencher as seguinte informações:
 - Descrição

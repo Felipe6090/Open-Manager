@@ -6,10 +6,10 @@ Aqui gostaria de mostrar algumas funcionalidades que serão vistas em todo o ERP
 ##### Filtros E Minimizar Painel
 Ao passar o mouse no canto superior direito, você pode escolher as opções de filtro ou minimizar o painel
 
-![](/../assets/Pasted_image_20250517170610.png)
+![](/assets/Pasted_image_20250517170610.png)
 #### Tabelas
 Várias telas do Open Manager têm como padrão de visualização o uso de tabelas, veja abaixo funcionalidades comuns entre elas 
-![[Pasted_image_20250517181146.png]]
+![](/assets/Pasted_image_20250517181146.png)
 
 
 #### GED
@@ -20,24 +20,24 @@ Relacionamentos é como o Open Manager gerencia hierarquias de categorias. Veja 
 
 Temos 3 registros de Categorias Financeiras e seus Relacionamentos abaixo:
 - DESPESAS NÃO OPERACIONAIS
-![[Pasted_image_20250518125252.png]]
+![](/assets/Pasted_image_20250518125252.png)
 
 
 - AQUISIÇÃO DE IMOBILIZADO
-![[Pasted_image_20250518125435.png]]
+![](/assets/Pasted_image_20250518125435.png)
 
 - Computadores e acessórios
-![[Pasted_image_20250518125606.png]]
+![](/assets/Pasted_image_20250518125606.png)
 
 Esses 3 juntos produzirão, em Financeiro->Categorias Financeiras->Despesas, o seguinte resultado:
-![[Pasted_image_20250518125926.png]]
+![](/assets/Pasted_image_20250518125926.png)
 
 ## Dashboard
 O dashboard irá te dar um resumo de dados em forma de gráficos e tabela. Vejamos quais são:
 ### Balanço Financeiro
 Resumo do balanço financeiro da empresa
 
-![[Pasted_image_20250516195437.png]]
+![](/assets/Pasted_image_20250516195437.png)
 #### Contas a receber:
 - Recebidas
 - Vencidas 
@@ -55,14 +55,14 @@ Resumo do balanço financeiro da empresa
 ### Análise financeira do mês
 O gráfico de analise financeira, foi desenvolvido para o gestor financeiro ter em um único ambiente os valores já compilados para uma analise do mês dia a dia.
 
-![[Pasted_image_20250516195501.png]]
+![](/assets/Pasted_image_20250516195501.png)
 #### Gráfico:
 Dia x Valor (R$)
 #### Opções de filtro:
 - Mês Base
 ### Detalhamento Recebimentos/Contas a paga
 
-![[Pasted_image_20250516195541.png]]
+![](/assets/Pasted_image_20250516195541.png)
 
 #### Detalhamento dos recebimentos
 Detalhamento das Receitas em um gráfico dinâmico.
@@ -83,7 +83,7 @@ Detalhamento gráfico das despesas da empresa acumuladas para o mês.
 ### Análise de vendas por período
 O gráfico de analise de vendas por período foi desenvolvido para o gestor financeiro ter assim, num único ambiente, os valores da receita de vendas já compilados para uma analise por período.
 
-![[Pasted_image_20250516195615.png]]
+![](/assets/Pasted_image_20250516195615.png)
 #### Gráfico
 - Data (dia/mês) x Qtd. de Vendas
 #### Opções de filtro:
@@ -103,7 +103,7 @@ O gráfico de análise de vendas em tempo real, foi desenvolvido para o gestor f
 
 Ainda não está completo!!!
 
-![[Pasted_image_20250516203339.png]]
+![](/assets/Pasted_image_20250516203339.png)
 #### Gráfico:
 - Tempo (horas) x Qtd. de Vendas
 #### Opções de filtro:
@@ -121,7 +121,7 @@ Desfrute de uma metodologia centenária. O Gráfico de Pareto para analisar o se
 
 É um gráfico de colunas que ordena as frequências das ocorrências, da maior para a menor, permitindo a priorização dos problemas.
 
-![[Pasted_image_20250516204453.png]]
+![](/assets/Pasted_image_20250516204453.png)
 #### Gráfico:
 Problema Identificado x Qtd. de Ocorrências
 #### Opções de filtro:
@@ -141,7 +141,7 @@ Problema Identificado x Qtd. de Ocorrências
 ### Previsibilidade de Impostos
 Previsibilidade de impostos que sua empresa pagará até o momento.
 
-![[Pasted_image_20250516204739.png]]
+![](/assets/Pasted_image_20250516204739.png)
 #### Dados:
 - Período
 - Faturamento
@@ -155,7 +155,7 @@ Previsibilidade de impostos que sua empresa pagará até o momento.
 ### Listagem de Produtos mais/menos vendidos
 Listagem dos Produtos mais/menos vendidos.
 
-![[Pasted_image_20250516204945.png]]
+![](/assets/Pasted_image_20250516204945.png)
 #### Tabela:
 - ID
 - Produto
@@ -176,7 +176,7 @@ Listagem dos Produtos mais/menos vendidos.
 ### Total de Ordens de Serviço
 Gráfico para analise geral de Ordens de Serviço
 
-![[Pasted_image_20250516214957.png]]
+![](/assets/Pasted_image_20250516214957.png)
 #### Gráfico:
 Data (dia/mês/ano) x Qtd. de OS´s
 - Aguardando
@@ -203,7 +203,7 @@ Data (dia/mês/ano) x Qtd. de OS´s
 ### Total de O.S. por Técnico
 Gráfico para analise de Ordens de Serviço. Aqui você verá o Total de O.S por Técnico
 
-![[Pasted_image_20250516215928.png]]
+![](/assets/Pasted_image_20250516215928.png)
 #### Gráfico:
 Qtd. de OS´s x Técnico 
 - Técnico
@@ -223,7 +223,7 @@ Legenda:
 ### Análise do Vendedor
 Análise por vendedor
 
-![[Pasted_image_20250516221852.png]]
+![](/assets/Pasted_image_20250516221852.png)
 
 #### Dados Mostrados:
 - Clientes na Carteira
@@ -247,7 +247,7 @@ Análise por vendedor
 ### Ranking de vendedores
 Gráfico para análise geral do desempenho dos vendedores em tempo real.
 
-![[Pasted_image_20250516222404.png]]
+![](/assets/Pasted_image_20250516222404.png)
 ### Gráfico:
 Valor (R$) x Vendedor
 
@@ -267,7 +267,7 @@ Legenda:
 ### Clientes sem atividades
 Ferramenta para verificar a quanto tempo o cliente não realiza compra e auxiliar na inserção das atividades do CRM.
 
-![[Pasted_image_20250516223257.png]]
+![](/assets/Pasted_image_20250516223257.png)
 #### Tabela:
 - Código
 - Nome
@@ -283,7 +283,7 @@ Ferramenta para verificar a quanto tempo o cliente não realiza compra e auxilia
 
 ### Mapa de Vendas
 Mapa de vendas com quantidade de vendas efetuadas.
-![[Pasted_image_20250516224810.png]]
+![](/assets/Pasted_image_20250516224810.png)
 #### Tabela:
 - UF
 - Total (R$)
@@ -305,7 +305,7 @@ Mapa de vendas com quantidade de vendas efetuadas.
 ### Mapa de Oportunidades
 Mapa de vendas com quantidade de vendas efetuadas.
 
-![[Pasted_image_20250516231620.png]]
+![](/assets/Pasted_image_20250516231620.png)
 #### Legenda:
 - Branco - Baixa
 - Azul Claro - Média
@@ -338,7 +338,7 @@ Com o proposito de apresentar os números realizados em função das metas progr
 ### Gráfico de Metas
 Com o proposito de apresentar ao gestor uma direção quanto aos números realizados em função das metas programadas, o Gráfico Spider realiza um comparativo entre os números de acordo com o filtro. Deixe sua equipe de vendas em dias.
 
-![[Pasted_image_20250516235052.png]]
+![](/assets/Pasted_image_20250516235052.png)
 #### Legenda:
 - Azul - Meta
 - Laranja - Realizado
@@ -354,7 +354,7 @@ Com o proposito de apresentar ao gestor uma direção quanto aos números realiz
 ### Produção por Grupo de Produto
 Gráfico para análise geral do desempenho da Produção por grupo de produto.
 
-![[Pasted_image_20250516235208.png]]
+![](/assets/Pasted_image_20250516235208.png)
 #### Gráfico: 
 - Programado x Realizado
 #### Legenda:
@@ -368,7 +368,7 @@ Gráfico para análise geral do desempenho da Produção por grupo de produto.
 ### Produção Diária
 Gráfico para análise geral do desempenho da Produção em Tempo Real.
 
-![[Pasted_image_20250517001057.png]]
+![](/assets/Pasted_image_20250517001057.png)
 #### Gráfico:
 Processo x Qtd. Programados/Realizados
 
@@ -382,7 +382,7 @@ Processo x Qtd. Programados/Realizados
 
 ### Vendas por região
 Gráfico para análise de vendas por região de clientes.
-![[Pasted_image_20250517001424.png]]
+![](/assets/Pasted_image_20250517001424.png)
 
 #### Opções de Filtro:
 - Data inicial

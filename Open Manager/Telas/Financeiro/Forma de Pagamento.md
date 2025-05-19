@@ -1,6 +1,6 @@
 Os modelos de formas de pagamento possibilitam que você padronize o parcelamento de receitas da sua empresa
 
-![[Pasted_image_20250518211043.png]]
+![](/assets/Pasted_image_20250518211043.png)
 
 ### Tabela:
 - ID
@@ -9,7 +9,7 @@ Os modelos de formas de pagamento possibilitam que você padronize o parcelament
 
 
 ## Criação/Edição
-![[Pasted_image_20250518211717.png]]
+![](/assets/Pasted_image_20250518211717.png)
 
 Para criar ou editar uma forma de pagamento, é necessário preencher os seguintes dados:
 - Descrição

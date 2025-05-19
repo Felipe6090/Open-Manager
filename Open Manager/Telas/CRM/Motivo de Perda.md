@@ -1,6 +1,6 @@
 Gerenciamento dos motivos de perda
 
-![[Pasted_image_20250518215738.png]]
+![](/assets/Pasted_image_20250518215738.png)
 
 ### Tabela:
 - Descrição
@@ -10,7 +10,7 @@ Gerenciamento dos motivos de perda
 
 A criação ou edição de um motivo de perda exige apenas uma descrição
 
-![[Pasted_image_20250518215956.png]]
+![](/assets/Pasted_image_20250518215956.png)
 
 Basta digitar a descrição e clicar em "Salvar" e estará pronto para uso.
 

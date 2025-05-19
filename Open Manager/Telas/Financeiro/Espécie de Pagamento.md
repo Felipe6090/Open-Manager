@@ -1,6 +1,6 @@
 Gerenciamento de espécies de pagamentos
 
-![[Pasted_image_20250518205007.png]]
+![](/assets/Pasted_image_20250518205007.png)
 
 ### Tabela:
 - ID

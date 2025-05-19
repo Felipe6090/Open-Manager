@@ -1,6 +1,6 @@
 Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categoria, relatório por relatório:
 
-![[Pasted_image_20250517212914.png]]
+![](/assets/Pasted_image_20250517212914.png)
 
 ## Registro de Entradas P1
 [[livro_entrada_P1.pdf|exemplo]]
@@ -188,7 +188,7 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 
 
 
-![[Pasted_image_20250517221830.png]]
+![](/assets/Pasted_image_20250517221830.png)
 
 ## Clientes Não Movimentados a x Dias
 [[|exemplo]]
@@ -914,7 +914,7 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 ---
 
 
-![[Pasted_image_20250517224948.png]]
+![](/assets/Pasted_image_20250517224948.png)
 
 ## Relatório Patrimônio em Estoque
 [[|exemplo]]
@@ -1945,7 +1945,7 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 
 ---
 
-![[Pasted_image_20250517225629.png]]
+![](/assets/Pasted_image_20250517225629.png)
 
 ## Relatório Entrada de Produtos por Usuário
 [[|exemplo]]
@@ -2079,7 +2079,7 @@ Aqui é possível gerar um variedade de Relatórios. Vejamos categoria por categ
 --- 
 
 
-![[Pasted_image_20250517225800.png]]
+![](/assets/Pasted_image_20250517225800.png)
 
 
 ## Gráfico de Custos por Unidade de Saúde
