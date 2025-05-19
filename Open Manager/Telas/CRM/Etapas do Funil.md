@@ -9,4 +9,4 @@ Com o CRM do Sistema Open Manager você pode organizar o seu funil indicando tod
 Veja como gerenciar os seus funis [aqui](https://scribehow.com/shared/Gerenciando_Funis__Open_Manager__vJdyAwUfSnSRkWqDeXng4g)
 
 # Rerefência:
-- [[Automação]]
+- [Automação](/Open%20Manager/Telas/CRM/Automação.md)

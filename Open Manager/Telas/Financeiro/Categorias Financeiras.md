@@ -22,4 +22,4 @@ Aqui precisamos preencher as seguintes informações:
 
 
 ## Relacionados:
-- [[Relacionamento]]
+- [Relacionamentos](/Open%20Manager/readme.md)

@@ -22,6 +22,6 @@ Para criar ou editar uma forma de pagamento, é necessário preencher os seguint
 	- É preenchido automaticamente
 
 # Referências:
-- [[Espécie de Pagamento]]
-- [[Produção]]
+- [Espécie de Pagamento](/Open%20Manager/Telas/Espécie%20de%20Pagamento.md)
+- [Produção](/Open%20Manager/Telas/Produção.md)
 

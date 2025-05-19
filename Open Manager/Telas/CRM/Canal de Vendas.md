@@ -11,4 +11,4 @@ Ao criar ou editar um canal de vendas, um modal irá aparecer pedindo uma descri
 Basta digitar a descrição e clicar em "Salvar" que o canal estará pronto para uso.
 
 ## Referências:
-- [[Automação]]
+- [Automação](/Open%20Manager/Telas/CRM/Automação.md)

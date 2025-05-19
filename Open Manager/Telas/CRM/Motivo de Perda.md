@@ -15,4 +15,4 @@ A criação ou edição de um motivo de perda exige apenas uma descrição
 Basta digitar a descrição e clicar em "Salvar" e estará pronto para uso.
 
 ## Referências:
-- [[Automação]]
+- [Automação](/Open%20Manager/Telas/CRM/Automação.md)

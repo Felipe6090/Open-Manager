@@ -12,4 +12,4 @@ Você pode ver como manipular uma espécie de pagamento [aqui](https://scribehow
 
 
 ## Referências:
-- [[Forma de Pagamento]]
+- [Forma de Pagamento](/Open%20Manager/Telas/Financeiro/Forma%20de%20Pagamento.md)

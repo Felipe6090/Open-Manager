@@ -73,5 +73,5 @@ Após salvar a integração, uma chave será gerada:
 
 
 ## Referências
-- [[Etapas do Funil]]
-- [[Negociação]]
+- [Etapas do Funil](/Open%20Manager/Telas/CRM/Etapas%20do%20Funil.md)
+- [Negociação](/Open%20Manager/Telas/CRM/Negociação.md)
