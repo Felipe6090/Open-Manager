@@ -6,7 +6,7 @@ Aqui gostaria de mostrar algumas funcionalidades que serão vistas em todo o ERP
 ##### Filtros E Minimizar Painel
 Ao passar o mouse no canto superior direito, você pode escolher as opções de filtro ou minimizar o painel
 
-![](assets/Pasted image 20250517170610.png)
+![](/../assets/Pasted image 20250517170610.png)
 #### Tabelas
 Várias telas do Open Manager têm como padrão de visualização o uso de tabelas, veja abaixo funcionalidades comuns entre elas 
 ![[Pasted image 20250517181146.png]]
